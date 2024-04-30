@@ -1,4 +1,4 @@
-# DSS_SOM Project
+# Self-Organizing Maps (SOM) Project
 
 This project contains an application that implements the Self-Organizing Maps (SOM) algorithm. SOM is a type of artificial neural network used to visualize a dataset on a low-dimensional grid.
 
